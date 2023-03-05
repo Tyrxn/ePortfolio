@@ -285,6 +285,7 @@ nav{
 
 .project__wrapper{
     display: flex;
+    margin-bottom: 40px;
     box-shadow: 0 20px 80px rgba(0, 0, 0, 0.45);
     border-radius: 20px;
     overflow: hidden;
